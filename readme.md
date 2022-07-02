@@ -1,6 +1,6 @@
 # Sticky Notes
 
-Sticky Notes is a website to which helps one to manage their day-to-day work related or any other topic related notes so that one doesn't forget those things. It is very easy to use and has some basic functionalities which includes Adding different notes and deleting the notes once they are of no use. The amazing colors representing different notes stacked one after another is what makes this more interesting and appealing.
+Sticky Notes is a website to which helps one to manage their day-to-day work related or any other topic related notes so that one doesn't forget those things. It is very easy to use and has some basic functionalities which includes Adding different notes and deleting the notes once they are of no use by double clicking on them. The amazing colors representing different notes stacked one after another is what makes this more interesting and appealing.
 
 ## How to Run Sticky Notes on your local system ?
 
